@@ -1,0 +1,67 @@
+*{
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color:black ;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    height: 100px;
+}
+
+
+h2 {
+    font-size: 19px;
+}
+.mess {
+    background: white;
+    padding: 10px;
+    border-radius: 19px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    width: 250px;
+}
+
+
+span {
+    font-weight: bold;
+}
+
+label {
+    margin: 10px 0 9px;
+    display: block;
+
+}
+
+input, textarea {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 9px;
+}
+
+textarea {
+    height: 80px;
+}
+
+.Ô {
+    display: flex;
+    margin-top: 25px;
+}
+
+button {
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.CLOSE {
+    background-color: #757575;
+    color: white;
+}
+
+.SENDMESSAGE {
+    background-color: #007bff;
+    color: white;
+}
