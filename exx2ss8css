@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(74,15,214,0.7904411764705882) 53%, rgba(0,0,0,0.7428221288515406) 98%);) 53%, rgba(0,0,0,0.7428221288515406) 98%);
+
+}
+
+.PHieu dien {
+    background: rgba(25, 84, 124, 0.1);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    width: 450px;
+    color: white;
+}
+
+
+input {
+    padding: 9px;
+    border: 3px solid #ddd;
+    border-radius: 2px;
+    color: white;
+    width: 100%;
+    margin: 9px 0;
+}
+
+textarea {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    color: white;
+    width: 100%;
+    margin: 10px 0;
+}
+
+button {
+    width: 20%;
+    height: 40px;
+    background-color: azure;
+    border-radius: 9px;
+    margin-bottom: 16px;
+
+}
